@@ -93,7 +93,7 @@ body {
 .buy:hover {
   background-color: var(--darkest-cyan);
 }
-@media (max-width: 375px) {
+@media (max-width: 30em) {
   .container {
     display: flex;
     flex-direction: column;
